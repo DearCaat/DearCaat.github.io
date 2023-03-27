@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+Download the <a href="{{ base_path }}/files/wenhaoTang.pdf">Resume</a>.
 
 Education
 ======

@@ -16,7 +16,12 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/wenhaoTang.pdf
+
+  - title: "Code"
+    url: /code/
+
+  # - title: "More"
+  #   url: /more/
+  # - title: "Contact"
+  #   url: /contact/
