@@ -2,7 +2,7 @@
 title: "Efficient pavement distress classification via deep patch soft selective learning and knowledge distillation"
 collection: publications
 permalink: /publication/dpssl
-excerpt: 'Shizheng Zhang, **Wenhao Tang**, Jing Wang, Sheng Huang. <br />Shizheng Zhang and **Wenhao Tang** contributed equally to this work.'
+excerpt: '\*Shizheng Zhang, **\*Wenhao Tang**, Jing Wang, Sheng Huang.'
 date: 2022-08-01
 venue: '**Electronics Letters 2022** [pdf](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.12570) [code](https://github.com/DearCaat/Pavement-Distress-Classification)'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
