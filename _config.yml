@@ -11,7 +11,7 @@ title                    : "About Wenhao"
 title_separator          : "-"
 name                     : &name "Wenhao Tang"
 description              : &description "personal description"
-url                      : https://www.whtang.cn #https://www.whtang.cn #https://www.whtang.cn #https://dearcaat.github.io # the base hostname & protocol for your site
+url                      : https://www.whtang.cn #https://www.whtang.cn #https://dearcaat.github.io #http://127.0.0.1:4000 # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DearCaat/dearcaat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
