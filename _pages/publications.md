@@ -17,10 +17,10 @@ author_profile: true
 - R$^2$T-MIL: Re-embedded Regional Transformer based Multiple Instance Learning for Whole Slide Image Classification. **Wenhao Tang**, Sheng Huang, Xiaoxian Zhang, Fengtao Zhou, Yi Zhang, and Bo Liu. [ICCV Under review]().
 - Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification. **Wenhao Tang**, Sheng Huang, Xiaoxian Zhang, Fengtao Zhou, Yi Zhang, and Bo Liu. [ICCV Under review]().
 
+## Reports
+- Towards Glimpsing Optimizer in Deep Learning: from SGD to Lookahead to the Future. **Wenhao Tang**. <a href="{{ base_path }}/files/towards_glimpsing_optimizer_in_deep_learning__from_sgd_to_lookahead_to_the_future.pdf">pdf</a>
+
 ## Papers
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-## Reports
-- Towards Glimpsing Optimizer in Deep Learning: from SGD to Lookahead to the Future. **Wenhao Tang**. <a href="{{ base_path }}/files/towards_glimpsing_optimizer_in_deep_learning__from_sgd_to_lookahead_to_the_future.pdf">pdf</a>
